@@ -2,4 +2,4 @@
 
 Hello World!
 
-Just following steps grom GitHub Guides.
+Just following steps from GitHub Guides.
